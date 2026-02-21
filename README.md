@@ -24,9 +24,6 @@ reveal about countries worldwide.
 - NumPy
 - Matplotlib
 
-## 📊 Sample Visualizations
-(Add your chart screenshots here)
-
 ## 📁 Dataset
 - Source: Kaggle 
 - File: World Population by Countries (2025)
